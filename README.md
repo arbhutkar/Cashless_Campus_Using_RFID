@@ -1,4 +1,4 @@
-# Cashless_Campus_Using_RFID
+# Cashless_Using_Transactions_RFID
 The RFID-based Cashless Transaction System is designed to facilitate secure and seamless transactions using RFID (Radio Frequency Identification) technology. The system works as follows:
 
 ⿡ User Registration: Each user (student, employee, or customer) is issued an RFID card that is linked to their account in the database. The card contains a unique ID associated with the user’s balance.
