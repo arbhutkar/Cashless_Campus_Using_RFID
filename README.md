@@ -14,7 +14,11 @@ The RFID-based Cashless Transaction System is designed to facilitate secure and 
 Technologies Used:
 
 Programming Language: Java
+
 Database: MySQL for storing user details and transaction records
+
 Hardware: RFID cards, RFID readers
+
 Web Technologies: HTML, CSS, JavaScript (for the admin portal to monitor transactions)
+
 This system helps eliminate the need for cash, making transactions faster, safer, and more efficient, especially in closed environments like schools, colleges, and workplaces.
